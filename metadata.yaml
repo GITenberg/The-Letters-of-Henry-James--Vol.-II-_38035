@@ -1,0 +1,36 @@
+_repo: The-Letters-of-Henry-James--Vol.-II-_38035
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+  editor:
+    agent_name: Lubbock, Percy
+    birthdate: 1879
+    deathdate: 1965
+    gutenberg_agent_id: '8373'
+    url: http://www.gutenberg.org/2009/agents/8373
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Lubbock
+description: ''
+gutenberg_issued: '2011-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38035'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'James, Henry, 1843-1916 -- Correspondence'
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Correspondence'
+- !lcsh 'Authors, American -- 20th century -- Correspondence'
+title: The Letters of Henry James, (Vol. II)
+url: http://www.gutenberg.org/ebooks/38035
